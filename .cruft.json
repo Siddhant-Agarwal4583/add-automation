@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/Siddhant-Agarwal4583/cookiecutter-python-add-github-actions",
-  "commit": "4b06c9eaf3d896e0584ece4b8b6c646a1d3c6540",
+  "commit": "7b99affde858fcf430d3880e3076b5e5ec0b9809",
   "checkout": null,
   "context": {
     "cookiecutter": {
