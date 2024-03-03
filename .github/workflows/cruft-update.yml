@@ -6,7 +6,7 @@ permissions:
   pull-requests: write
 on:
   schedule:
-    - cron: "* * * * 1" # Every Monday at 2am
+    - cron: "* * * * *" # Every Monday at 2am
 jobs:
   update:
     runs-on: ubuntu-latest
