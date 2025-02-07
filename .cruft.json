@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/Siddhant-Agarwal4583/cookiecutter-python-add-github-actions",
-  "commit": "4b06c9eaf3d896e0584ece4b8b6c646a1d3c6540",
+  "commit": "76d8f8fda71d132b348bbee9e6656fa681f01a71",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -10,7 +10,8 @@
       "project_name": "add automation",
       "description": "Trying to add github actions.",
       "version": "0.0.1",
-      "_template": "https://github.com/Siddhant-Agarwal4583/cookiecutter-python-add-github-actions"
+      "_template": "https://github.com/Siddhant-Agarwal4583/cookiecutter-python-add-github-actions",
+      "_commit": "76d8f8fda71d132b348bbee9e6656fa681f01a71"
     }
   },
   "directory": null
